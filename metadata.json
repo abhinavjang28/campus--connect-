@@ -1,0 +1,8 @@
+{
+  "name": "Copy of College Connect",
+  "description": "A platform for college students to create profiles, upload resumes, and connect with recruiters for placements and club opportunities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
